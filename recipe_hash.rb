@@ -25,13 +25,6 @@ perfect_10_recipe = {
   :agave => "1/4 cup"
 }
 
-
-
-
-
-
-
-
 #2. Write a method that simply returns (not puts) your perfect_10 hash
 def recipe_ingredients(perfect_10_recipe)
   perfect_10_recipe
