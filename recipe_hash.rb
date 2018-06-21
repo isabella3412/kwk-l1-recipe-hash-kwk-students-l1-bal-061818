@@ -49,7 +49,7 @@ def ingredients_and_amounts(perfect_10_recipe)
   # puts "#{almond_flour}"
   # puts "#{2_cups}"
 end
-
+end
 ingredients_and_amounts
 
 perfect_10_recipe
