@@ -65,7 +65,7 @@ def amounts(perfect_10_recipe)
   perfect_10_recipe do |ingredients, amounts|
     puts "#{amounts}"
 end
-end 
+end
 
 amounts
 
@@ -75,8 +75,4 @@ def number_ingredients(perfect_10_recipe)
 end
 
 
-
-
-
-
-
+number_ingredients
